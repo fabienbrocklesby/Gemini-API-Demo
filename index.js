@@ -13,10 +13,10 @@ const port = process.env.PORT || 3000;
 const api_key = process.env.API_KEY;
 
 const genAI = new GoogleGenerativeAI(api_key);
-const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
 
 app.post("/", async (c) => {
 	const { prompt } = await c.req.parseBody();
+	const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
 
 	return c.text((await model.generateContent(prompt)).response.text());
 });
