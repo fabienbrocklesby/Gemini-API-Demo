@@ -1,0 +1,177 @@
+{
+  "servingSize": 1,
+  "nutritionalInformation": {
+    "calories": 1200,
+    "protein": 50,
+    "carbohydrates": 180,
+    "fat": 20
+  },
+  "ingredients": [
+    {
+      "name": "Oat flour",
+      "quantity": 1/2 cup (60),
+      "price": 1.00
+    },
+    {
+      "name": "Whey protein powder",
+      "quantity": 1 scoop (30),
+      "price": 2.00
+    },
+    {
+      "name": "Eggs",
+      "quantity": 2 large,
+      "price": 1.00
+    },
+    {
+      "name": "Milk (any type)",
+      "quantity": 1/2 cup (120ml),
+      "price": 0.50
+    },
+    {
+      "name": "Banana",
+      "quantity": 1 medium,
+      "price": 0.50
+    },
+    {
+      "name": "Peanut butter",
+      "quantity": 2 tablespoons (30),
+      "price": 1.00
+    },
+    {
+      "name": "Baking powder",
+      "quantity": 1 tsp,
+      "price": 0.10
+    },
+    {
+      "name": "Cinnamon",
+      "quantity": 1/2 tsp,
+      "price": 0.10
+    }
+  ],
+  "directions": [
+    "In a large mug, combine the oat flour, whey protein powder, baking powder, and cinnamon.",
+    "Mash the banana and add it to the mug.",
+    "Crack the eggs into the mug and whisk until well combined.",
+    "Pour in the milk and stir until smooth.",
+    "Microwave on high for 60-90 seconds, or until the cake is set and slightly springy to the touch.",
+    "Let the cake cool for a few minutes before topping with peanut butter."
+  ],
+  "estimatedPrice": 11.20
+},
+{
+  "servingSize": 1,
+  "nutritionalInformation": {
+    "calories": 1200,
+    "protein": 60,
+    "carbohydrates": 180,
+    "fat": 20
+  },
+  "ingredients": [
+    {
+      "name": "Oat flour",
+      "quantity": 1/2 cup,
+      "price": 2.00
+    },
+    {
+      "name": "Whey protein powder",
+      "quantity": 1 scoop (30),
+      "price": 3.00
+    },
+    {
+      "name": "Eggs",
+      "quantity": 2 large,
+      "price": 1.00
+    },
+    {
+      "name": "Milk",
+      "quantity": 1/2 cup,
+      "price": 0.50
+    },
+    {
+      "name": "Banana",
+      "quantity": 1 medium,
+      "price": 0.50
+    },
+    {
+      "name": "Peanut butter",
+      "quantity": 2 tablespoons,
+      "price": 1.00
+    },
+    {
+      "name": "Baking powder",
+      "quantity": 1/2 teaspoon,
+      "price": 0.25
+    },
+    {
+      "name": "Cinnamon",
+      "quantity": 1/4 teaspoon,
+      "price": 0.25
+    }
+  ],
+  "directions": [
+    "In a large mug, whisk together the oat flour, whey protein powder, baking powder, and cinnamon.",
+    "Add the eggs, milk, mashed banana, and peanut butter. Stir until well combined.",
+    "Microwave on high for 60-90 seconds, or until the cake is cooked through and slightly puffed.",
+    "Let cool for a few minutes before serving."
+  ],
+  "estimatedPrice": 11.50
+},
+{
+  "servingSize": 1,
+  "nutritionalInformation": {
+    "calories": 1200,
+    "protein": 40,
+    "carbohydrates": 180,
+    "fat": 20
+  },
+  "ingredients": [
+    {
+      "name": "Oat flour",
+      "quantity": 1/2 cup (60),
+      "price": 1.50
+    },
+    {
+      "name": "Whey protein powder",
+      "quantity": 1 scoop (30),
+      "price": 2.00
+    },
+    {
+      "name": "Eggs",
+      "quantity": 2 large,
+      "price": 1.00
+    },
+    {
+      "name": "Milk",
+      "quantity": 1/2 cup (120ml),
+      "price": 0.50
+    },
+    {
+      "name": "Banana",
+      "quantity": 1 medium,
+      "price": 0.50
+    },
+    {
+      "name": "Peanut butter",
+      "quantity": 2 tablespoons (30),
+      "price": 1.00
+    },
+    {
+      "name": "Baking powder",
+      "quantity": 1 teaspoon,
+      "price": 0.50
+    },
+    {
+      "name": "Cinnamon",
+      "quantity": 1/2 teaspoon,
+      "price": 0.50
+    }
+  ],
+  "directions": [
+    "In a large mug, combine oat flour, whey protein powder, baking powder, and cinnamon.",
+    "Add mashed banana, eggs, and milk. Mix well until smooth.",
+    "Stir in peanut butter.",
+    "Microwave on high for 60-90 seconds, or until the cake is cooked through.",
+    "Let cool slightly before serving."
+  ],
+  "estimatedPrice": 10.50
+},
